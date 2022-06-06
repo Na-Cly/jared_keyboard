@@ -1,0 +1,9 @@
+file_format: "1"
+id: sath65
+name: sath65
+type: shield
+url: https://github.com/na-cly
+requires: [pro_micro]
+features:
+  - keys
+  - encoder

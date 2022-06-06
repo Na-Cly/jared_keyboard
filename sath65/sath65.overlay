@@ -1,0 +1,36 @@
+/*
+ * Copyright (c) 2020 The ZMK Contributors
+ *
+ * SPDX-License-Identifier: MIT
+ */
+#include "sath65.dtsi"
+
+    &right_encoder {
+	    status = "okay";
+    };
+
+
+/*
+rows / cols
+row0: 1
+row1: 0
+row2: 2
+row3: 3
+row4: 4
+row5: 5
+row6: 6
+row7: 7
+row8: 8
+
+col0: 9
+col1: 10
+col2: 16
+col3: 14
+col4: 15
+col5: 18
+col6: 19
+col7: 101
+rota: 20
+rotb: 21
+
+*/
